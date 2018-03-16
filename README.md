@@ -1,2 +1,3 @@
 # hello-world
 First repository, entirely for the sake of practice, and familiarizing myself with the mechanics of GitHub and repositories
+Oh dear, this was so scary the last 200 times I tried to learn git, but the guide is pretty straight forward. Good for dummies like me. Oh well, first edit, there it goes...
